@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Virtual, Override, Abstract Methods/1.0.0": {
+        "runtime": {
+          "Virtual, Override, Abstract Methods.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Virtual, Override, Abstract Methods/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

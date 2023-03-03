@@ -1,0 +1,15 @@
+C:\Users\11374916471\Desktop\c#\Beginner\Parameters\bin\Debug\net6.0\Parameters.exe
+C:\Users\11374916471\Desktop\c#\Beginner\Parameters\bin\Debug\net6.0\Parameters.deps.json
+C:\Users\11374916471\Desktop\c#\Beginner\Parameters\bin\Debug\net6.0\Parameters.runtimeconfig.json
+C:\Users\11374916471\Desktop\c#\Beginner\Parameters\bin\Debug\net6.0\Parameters.dll
+C:\Users\11374916471\Desktop\c#\Beginner\Parameters\bin\Debug\net6.0\Parameters.pdb
+C:\Users\11374916471\Desktop\c#\Beginner\Parameters\obj\Debug\net6.0\Parameters.csproj.AssemblyReference.cache
+C:\Users\11374916471\Desktop\c#\Beginner\Parameters\obj\Debug\net6.0\Parameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\11374916471\Desktop\c#\Beginner\Parameters\obj\Debug\net6.0\Parameters.AssemblyInfoInputs.cache
+C:\Users\11374916471\Desktop\c#\Beginner\Parameters\obj\Debug\net6.0\Parameters.AssemblyInfo.cs
+C:\Users\11374916471\Desktop\c#\Beginner\Parameters\obj\Debug\net6.0\Parameters.csproj.CoreCompileInputs.cache
+C:\Users\11374916471\Desktop\c#\Beginner\Parameters\obj\Debug\net6.0\Parameters.dll
+C:\Users\11374916471\Desktop\c#\Beginner\Parameters\obj\Debug\net6.0\refint\Parameters.dll
+C:\Users\11374916471\Desktop\c#\Beginner\Parameters\obj\Debug\net6.0\Parameters.pdb
+C:\Users\11374916471\Desktop\c#\Beginner\Parameters\obj\Debug\net6.0\Parameters.genruntimeconfig.cache
+C:\Users\11374916471\Desktop\c#\Beginner\Parameters\obj\Debug\net6.0\ref\Parameters.dll

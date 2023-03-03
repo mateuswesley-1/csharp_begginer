@@ -1,0 +1,15 @@
+C:\Users\11374916471\Desktop\c#\Beginner\Virtual, Override, Abstract Methods\obj\Debug\net6.0\Virtual, Override, Abstract Methods.csproj.AssemblyReference.cache
+C:\Users\11374916471\Desktop\c#\Beginner\Virtual, Override, Abstract Methods\obj\Debug\net6.0\Virtual, Override, Abstract Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\11374916471\Desktop\c#\Beginner\Virtual, Override, Abstract Methods\obj\Debug\net6.0\Virtual, Override, Abstract Methods.AssemblyInfoInputs.cache
+C:\Users\11374916471\Desktop\c#\Beginner\Virtual, Override, Abstract Methods\obj\Debug\net6.0\Virtual, Override, Abstract Methods.AssemblyInfo.cs
+C:\Users\11374916471\Desktop\c#\Beginner\Virtual, Override, Abstract Methods\obj\Debug\net6.0\Virtual, Override, Abstract Methods.csproj.CoreCompileInputs.cache
+C:\Users\11374916471\Desktop\c#\Beginner\Virtual, Override, Abstract Methods\bin\Debug\net6.0\Virtual, Override, Abstract Methods.exe
+C:\Users\11374916471\Desktop\c#\Beginner\Virtual, Override, Abstract Methods\bin\Debug\net6.0\Virtual, Override, Abstract Methods.deps.json
+C:\Users\11374916471\Desktop\c#\Beginner\Virtual, Override, Abstract Methods\bin\Debug\net6.0\Virtual, Override, Abstract Methods.runtimeconfig.json
+C:\Users\11374916471\Desktop\c#\Beginner\Virtual, Override, Abstract Methods\bin\Debug\net6.0\Virtual, Override, Abstract Methods.dll
+C:\Users\11374916471\Desktop\c#\Beginner\Virtual, Override, Abstract Methods\bin\Debug\net6.0\Virtual, Override, Abstract Methods.pdb
+C:\Users\11374916471\Desktop\c#\Beginner\Virtual, Override, Abstract Methods\obj\Debug\net6.0\Virtual, Override, Abstract Methods.dll
+C:\Users\11374916471\Desktop\c#\Beginner\Virtual, Override, Abstract Methods\obj\Debug\net6.0\refint\Virtual, Override, Abstract Methods.dll
+C:\Users\11374916471\Desktop\c#\Beginner\Virtual, Override, Abstract Methods\obj\Debug\net6.0\Virtual, Override, Abstract Methods.pdb
+C:\Users\11374916471\Desktop\c#\Beginner\Virtual, Override, Abstract Methods\obj\Debug\net6.0\Virtual, Override, Abstract Methods.genruntimeconfig.cache
+C:\Users\11374916471\Desktop\c#\Beginner\Virtual, Override, Abstract Methods\obj\Debug\net6.0\ref\Virtual, Override, Abstract Methods.dll
